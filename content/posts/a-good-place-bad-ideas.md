@@ -1,6 +1,7 @@
 ---
 date: "2021-09-05T21:00:20-04:00"
-draft: true
+draft: false
+author: me
 title: A good place to have bad ideas
 ---
 

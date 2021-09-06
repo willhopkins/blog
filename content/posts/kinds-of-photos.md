@@ -2,7 +2,7 @@
 title: "What do I want to photograph?"
 date: 2021-09-06T15:28:45-04:00
 author: me
-draft: true
+draft: false
 ---
 
 This is a question I ask myself often. Like, way too often. To the point where I think it gets in the way.
