@@ -1,7 +1,7 @@
 # baseURL: "https://examplesite.com/"
 title: Will Hopkins is a photographic storyteller
 paginate: 5
-theme: PaperMod
+theme: smigle
 
 enableRobotsTXT: true
 buildDrafts: false
