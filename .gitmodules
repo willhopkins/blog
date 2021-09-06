@@ -7,3 +7,6 @@
 [submodule "themes/smigle-hugo-theme"]
 	path = themes/smigle-hugo-theme
 	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme
+[submodule "themes/smigle"]
+	path = themes/smigle
+	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme
