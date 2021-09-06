@@ -1,7 +1,7 @@
 ---
-title: "A Good Place Bad Ideas"
-date: 2021-09-05T21:00:20-04:00
+date: "2021-09-05T21:00:20-04:00"
 draft: true
+title: A good place to have bad ideas
 ---
 
 # Quitting social media
