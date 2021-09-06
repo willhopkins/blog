@@ -50,12 +50,12 @@ params:
 
     label:
         text: "Home"
-        icon: /apple-touch-icon.png
-        iconHeight: 35
+        #icon: /apple-touch-icon.png
+        #iconHeight: 35
 
     # profile-mode
     profileMode:
-        enabled: true # needs to be explicitly set
+        enabled: false # needs to be explicitly set
         title: Will Hopkins
         subtitle: "Photographer"
         imageUrl: "/static/img/willhopkins_by_daverollans.jpg"
@@ -71,15 +71,16 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: Welcome to my blog
+        Content: "Welcome to my blog! It's great to have you here.
+        I'm a photographer and visual storyteller based in Ann Arbor, MI."
 
-    socialIcons:
-        - name: twitter
-          url: "https://twitter.com/"
-        - name: stackoverflow
-          url: "https://stackoverflow.com"
-        - name: github
-          url: "https://github.com/"
+        #    socialIcons:
+        #- name: twitter
+        #  url: "https://twitter.com/"
+        #- name: stackoverflow
+        #  url: "https://stackoverflow.com"
+        #- name: github
+        #  url: "https://github.com/"
 
     cover:
         hidden: true # hide everywhere but not in structured data

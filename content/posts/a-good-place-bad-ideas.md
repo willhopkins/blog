@@ -8,7 +8,7 @@ title: A good place to have bad ideas
 
 A few weeks ago, a petty tyrant mod on reddit got under my skin. I decided to take the rest of August off of social media and... I didn't regret it?
 
-My brain has had more space in it the last while. I don't have the same automatic responses to being bored. I killed my Twitter account, am about to kill my reddit account, and Instagram is relegated to the mobile webpage.[1]
+My brain has had more space in it the last while. I don't have the same automatic responses to being bored. I killed my Twitter account, am about to kill my reddit account, and Instagram is relegated to the mobile webpage.[^1]
 
 It's felt so good that I want to keep it this way. Everyone and their mother has been saying to blog or write a newsletter instead of social media, so I'm jumping on the bandwagon.
 
@@ -30,4 +30,4 @@ The benefit of the silence in the wake of social media has been thought. I've th
 
 Here's to new beginnings.
 
-[1]: Instagram have made this an awful experience. Don't be like Instagram.
+[^1]: Instagram have made this an awful experience. Don't be like Instagram.
