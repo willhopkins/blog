@@ -7,3 +7,11 @@ This is my blog [willhopkinsphoto.xyz](https://willhopkinsphoto.xyz). It's hoste
 Check out my code here, and Cloudflare Pages has a [pretty good intro](https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site).
 
 That said, Hugo isn't as easy to grok as I'd like for new users and non-developers, so I'll make a tutorial based on what I've learned so far at some point.
+
+# Notes & Reminders
+
+## Linking images
+
+GitHub parses paths like /static/img/path_to_photo.jpg just fine. Cloudflare doesn't.
+
+Make sure to link as /img/path_to_photo.jpg.
