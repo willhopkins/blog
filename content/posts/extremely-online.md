@@ -11,7 +11,7 @@ I don't want to be extremely online. I have struggled with electronic devices si
 
 It's not my fault. It's just how my brain works. It craves dopamine and novelty, pretty much constantly. The Internet is really great at providing both.
 
-Buuuuuuut... it makes me unhappy to be online all the time. It ratchets up the tension in my brain, activating my amygdala, putting me in a constant state of fear and anxiety. (Chuck meme)
+Buuuuuuut... it makes me unhappy to be online all the time. It ratchets up the tension in my brain, activating my amygdala, putting me in a constant state of fear and anxiety. (See: NBC's _Chuck_, but I can't find a meme of it online.)
 
 I kind of have to be online. My job is for a big tech company. The Internet is inescapable, and useful. But I don't want to be extremely online.
 
