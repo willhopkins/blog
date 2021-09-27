@@ -1,7 +1,6 @@
 ---
 title: Community
 author: me
-tags: process
 date: 2021-09-23
 draft: false
 ---
