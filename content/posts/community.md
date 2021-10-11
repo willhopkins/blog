@@ -8,6 +8,7 @@ draft: false
 Friends are helpful. Any number of studies will tell you that having friends has beneficial effects, like delaying the onset of dementia. But even better is a community.
 
 In the context of art and photography, a community helps
+
 * push you
 * question you
 * celebrate you
