@@ -4,4 +4,4 @@ date: 2021-10-10
 author: me
 ---
 
-![Encore Records](/static/img/encore-records.jpg)
+![Encore Records](/img/encore_records_tmax_p3200.JPG)
