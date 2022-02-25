@@ -1,4 +1,5 @@
 ---
+title: The point
 author: me
 draft: false
 date: 2022-02-25
