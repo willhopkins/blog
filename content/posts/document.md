@@ -1,3 +1,10 @@
+---
+draft: false
+title: Documentation
+author: me
+date: 2022-04-21
+---
+
 It's a popular thing in photography to say you are documenting someone or something. But what does documenting really mean? For whom are you/we documenting?
 
 Documentation implies an audience, and one with a critical eye. However, I think that most documentation these days isn't intended for an audience other than social media, where each image might get a few seconds of attention.
