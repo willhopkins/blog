@@ -1,7 +1,7 @@
-# baseURL: "https://willhopkinsphoto.xyz/"
-title: Will Hopkins is a photographic storyteller
+baseURL: "https://willhopkinsphoto.xyz/"
+title: Will Hopkins
 paginate: 5
-theme: smigle
+theme: PaperMod
 
 enableRobotsTXT: false
 buildDrafts: false
