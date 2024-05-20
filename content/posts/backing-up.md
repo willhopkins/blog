@@ -1,3 +1,9 @@
+---
+title: "Backing up"
+date: 2024-05-19
+draft: false
+---
+
 # One is none
 As the saying goes, "one is none" when it comes to backups. If you have data you can't bear to lose, you need to back it up somewhere. End of discussion.
 
